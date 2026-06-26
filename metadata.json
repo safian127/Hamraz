@@ -1,0 +1,6 @@
+{
+  "name": "Hamraz",
+  "description": "همراز - Persian mental health companion & journal with Jalali calendar and RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

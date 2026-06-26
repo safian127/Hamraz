@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">همراز</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_journal">یادداشت‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="app_slogan">همدم و همراز روزهای شما</string>
+    <string name="empty_journal">هنوز هیچ یادداشتی ثبت نشده است. امروز شما چطور بود؟</string>
+    <string name="add_entry">یادداشت جدید</string>
+</resources>
